@@ -1,0 +1,8 @@
+[package]
+org = "somindagamage"
+name = "ballerina_asgardeo_events"
+version = "0.1.0"
+distribution = "2201.8.2"
+
+[build-options]
+observabilityIncluded = true
